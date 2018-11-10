@@ -1,0 +1,92 @@
+[15-Apr-2016 09:52:35 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/nhbotq3n/public_html/components/com_gallery/layout.php on line 44
+[16-Apr-2016 09:29:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Class 'CLS_MAILER' not found in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 41
+[16-Apr-2016 09:31:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 09:36:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 09:38:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 09:52:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 09:54:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 10:08:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 10:11:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 10:20:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 10:22:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 164
+[16-Apr-2016 10:33:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 220
+[16-Apr-2016 10:35:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function getList() on null in /home/nhbotq3n/public_html/components/com_contact/layout.php on line 221
+[16-Apr-2016 14:30:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItemMap() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 119
+[16-Apr-2016 14:37:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItemMap() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 119
+[16-Apr-2016 14:38:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[16-Apr-2016 14:38:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItemMap() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 119
+[16-Apr-2016 14:38:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[16-Apr-2016 14:38:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[16-Apr-2016 14:38:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[16-Apr-2016 14:38:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[16-Apr-2016 14:38:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getListItem() in /home/nhbotq3n/public_html/components/com_about/layout.php on line 67
+[20-Apr-2016 08:18:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_BOOK::getListLocation() in /home/nhbotq3n/public_html/components/com_book/layout.php on line 153
+[20-Apr-2016 08:24:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_BOOK::getListLocation() in /home/nhbotq3n/public_html/components/com_book/layout.php on line 153
+[20-Apr-2016 08:26:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_BOOK::getListLocation() in /home/nhbotq3n/public_html/components/com_book/layout.php on line 153
+[20-Apr-2016 08:29:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_BOOK::getListLocation() in /home/nhbotq3n/public_html/components/com_book/layout.php on line 153
+[20-Apr-2016 14:21:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected end of file in /home/nhbotq3n/public_html/components/com_book/layout.php on line 30
+[20-Apr-2016 15:17:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_TEMPLATE::updateVisited() in /home/nhbotq3n/public_html/templates/default/home.php on line 5
+[20-Apr-2016 15:17:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_TEMPLATE::updateVisited() in /home/nhbotq3n/public_html/templates/default/home.php on line 5
+[20-Apr-2016 15:18:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_TEMPLATE::updateVisited() in /home/nhbotq3n/public_html/templates/default/home.php on line 5
+[20-Apr-2016 15:19:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_TEMPLATE::updateVisited() in /home/nhbotq3n/public_html/templates/default/home.php on line 5
+[22-Apr-2016 11:10:57 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 11:10:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[22-Apr-2016 11:14:52 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 11:14:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[22-Apr-2016 11:16:50 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 11:16:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[22-Apr-2016 11:16:54 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 11:16:54 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[22-Apr-2016 11:19:58 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 11:19:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[22-Apr-2016 12:39:08 Asia/Ho_Chi_Minh] PHP Warning:  Creating default object from empty value in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 45
+[22-Apr-2016 12:39:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method stdClass::Add_new() in /home/nhbotq3n/public_html/components/com_frontpage/layout.php on line 53
+[27-Apr-2016 11:31:06 Asia/Ho_Chi_Minh] PHP Warning:  Cannot use a scalar value as an array in /home/nhbotq3n/public_html/libs/cls.food.php on line 94
+[27-Apr-2016 11:42:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 11:42:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 12:28:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 12:37:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 12:43:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 12:58:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 14:46:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 14:47:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 14:50:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 15:39:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[27-Apr-2016 22:57:10 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 02:59:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 04:34:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 04:34:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 04:34:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 09:21:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[28-Apr-2016 21:38:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 02:39:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 02:39:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 02:56:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 02:57:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 02:58:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 06:21:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 06:23:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 07:52:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 13:14:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 17:38:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 17:38:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 23:56:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 23:59:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 23:59:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 23:59:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[29-Apr-2016 23:59:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_CONTENTS::updateView() in /home/nhbotq3n/public_html/components/com_contents/tem/detail.php on line 6
+[04-May-2016 16:39:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(modules/mod_content/layout.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/components/com_contents/tem/list.php on line 17
+[04-May-2016 16:39:25 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'modules/mod_content/layout.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/components/com_contents/tem/list.php on line 17
+[05-May-2016 17:50:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(INC_PATHfunc_helper.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:50:40 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'INC_PATHfunc_helper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:50:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_VIDEO::getListVideoHot() in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 16
+[05-May-2016 17:52:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(INC_PATHfunc_helper.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:03 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'INC_PATHfunc_helper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_VIDEO::getListVideoHot() in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 16
+[05-May-2016 17:52:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(INC_PATHfunc_helper.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:05 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'INC_PATHfunc_helper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:05 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_VIDEO::getListVideoHot() in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 16
+[05-May-2016 17:52:33 Asia/Ho_Chi_Minh] PHP Warning:  include_once(INC_PATHfunc_helper.php): failed to open stream: No such file or directory in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:33 Asia/Ho_Chi_Minh] PHP Warning:  include_once(): Failed opening 'INC_PATHfunc_helper.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 2
+[05-May-2016 17:52:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_VIDEO::getListVideoHot() in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 16
+[05-May-2016 17:53:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_VIDEO::getListVideoHot() in /home/nhbotq3n/public_html/modules/mod_gallery/layout.php on line 16

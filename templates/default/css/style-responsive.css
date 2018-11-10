@@ -1,0 +1,205 @@
+@media(max-width: 767px){
+    .m-hide{
+        display: none;
+    }
+    .m-mar15{
+        margin-bottom: 15px;
+    }
+    .navitor{
+        position: relative;
+    }
+    .header .navbar-brand>img{
+        height: 50px;
+    }
+    .navbar-header{
+        background: #999999;
+    }
+    #collapse-mainmenu {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .icon-bar {
+        background: #FFFFFF;
+    }
+    .main-menu{
+        float: none;
+        margin: 0 -15px;
+        background: #FFFFFF;
+    }
+    .main-menu li>a{
+        padding: 10px 15px;
+        color: #000000;
+    }
+    .box1{
+        background: none;
+    }
+    .box1 .col-item {
+        padding: 20px 0px 0px 0px;
+    }
+    .box1 .col-item h3{
+        padding: 20px 0 20px;
+    }
+    .box1 .col-item ul.list>li{
+        margin-bottom: 20px;
+    }
+    .box-service, .box-hotline, .box-question{
+        padding:30px 0;
+    }
+    .box-service h3.title-header, .box-question h3.title-header{
+        margin-bottom: 30px;
+    }
+    .box-service .name{
+        padding-bottom: 20px;
+    }
+    .service{
+        padding-bottom: 0;
+    }
+    .logo-footer{
+        margin: auto;
+    }
+    .page h1{
+        margin-top: 0;
+        margin-bottom: 30px; 
+    }
+    .footer{
+        padding: 0;
+        padding-top: 20px;
+    }
+    .footer .col-item:last-child {
+        text-align: left;
+    }
+    .list-content .thumb{
+        width: 140px;
+        height: 125px;
+    }
+    .list-gallery .item .thumb,
+    .box-gallery .thumb{
+        height: auto;
+        width: auto;
+    }
+    .breadcrumb{
+        padding: 8px 15px;
+    }
+    .box-question .item{
+        padding: 20px;
+    }
+    .box-service h3.title-header>span, 
+    .box-question h3.title-header>span{
+        padding: 0 35px;
+    }
+    .phado .item .caption>a{
+        font-size: 14px;
+    }
+
+}
+
+@media(min-width: 300px) and (max-width: 767px){
+}
+
+@media(min-width: 320px) and (max-width: 480px){
+}
+
+@media(min-width: 768px){
+    .show-mobile{
+        display: inherit;
+    }
+    .header .navbar-brand{
+        margin-left: 0px !important;
+    }
+    .navitor .nav.navbar-nav{
+        float: right;
+    }
+    .wrapper .navbar,
+    .navitor #navbar{
+        border: none;
+    }
+    .navbar .navbar-nav>li>.dropdown-menu{
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 0px;
+        z-index: 999;
+    }
+    .navbar .navbar-nav li:hover .dropdown-menu,
+    .nav.navbar-nav>li:hover .dropdown-menu{
+        display: block;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    .m-mar15{
+        margin-bottom: 15px;
+    }
+    .main-menu{
+        float: left;
+    }
+    .main-menu li>a{
+        padding: 0 15px 15px;
+    }
+    .service img.thumb{
+        height: 175px;
+    }
+    .box1 .col-item{
+        padding: 30px 0px 0px 0px;
+    }
+    .box1 .col-item h3{
+        padding: 0px 0 20px;
+    }
+    .box1 .col-item ul.list>li{
+        margin-bottom: 10px;
+        line-height: 20px;
+        max-height: 40px;
+        overflow: hidden;
+    }
+    .box-service, .box-hotline, .box-question{
+        padding: 50px 0;
+    }
+    .box-service h3.title-header, .box-question h3.title-header{
+        margin-bottom: 30px;
+    }
+    .list-content .thumb{
+        width: 140px;
+        height: 125px;
+    }
+    .list-content .txt{
+        max-height: 60px;
+    }
+    .list-gallery .item .thumb{
+        height: 110px;
+    }
+    .box-gallery .thumb{
+        height: 160px;
+    }
+}
+
+@media(min-width: 992px){
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+    .list-content .thumb{
+        width: 180px;
+        height: 130px;
+    }
+    .list-content .txt{
+        max-height: 80px;
+    }
+    .list-gallery .item .thumb{
+        height: 140px;
+    }
+    .box-gallery .thumb{
+        height: 205px;
+    }
+}
+
+@media(min-width: 1200px){
+    .service img.thumb{
+        height: 225px;
+    }
+    /*.phado .item .thumb{
+        height: 325px;
+        }*/
+    }
+
+    @media(min-width: 1280px) and (max-width: 1919px){
+    }
+
+    @media(min-width: 1920px){
+    }

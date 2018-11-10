@@ -1,0 +1,2 @@
+[20-Apr-2016 08:09:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getMap() in /home/nhbotq3n/public_html/ajaxs/map/list.php on line 11
+[20-Apr-2016 08:09:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method CLS_SHOWROOM::getMap() in /home/nhbotq3n/public_html/ajaxs/map/list.php on line 11
